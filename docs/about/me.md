@@ -12,7 +12,7 @@ Vivo con mi novio y nuestros tres gatos, en una casa que también está bastante
 
 No soy especialmente deportista, pero me encanta la Fórmula 1 y los autos en general, sobre todo por todo lo que tienen de ingeniería, materiales, diseño, fabricación y tecnología. Supongo que, al final, muchas de las cosas que me interesan terminan girando alrededor de lo mismo: entender cómo funcionan, imaginar cómo podrían funcionar mejor y, cuando se puede, intentar construirlas.
 
-![](../images/about/gatitos_photo.jpeg)
+![](../images/about/gatitos_photo.JPEG)
 
 Dejo un bonus track: una foto de mis tres gatitos en una sesión de fotos de productos 😍
 
